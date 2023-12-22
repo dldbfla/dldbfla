@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @dldbfla
-- 👀 I'm- 👋 Hi, I'm @dldbfla
+
 - 👀 I'm interested in science,kpop,coding,security
 - 🌱 I'm currently learning I dropped out of middle school and am freely doing hobbies and studying.
 - 💞️ I'm looking to collaborate on python,html,c++
